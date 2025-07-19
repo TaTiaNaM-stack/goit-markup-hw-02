@@ -12,3 +12,10 @@
 .logo-black{
     color: black;
 }
+
+.logo-black, .logo-web {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
