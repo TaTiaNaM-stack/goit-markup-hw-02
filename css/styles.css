@@ -3,20 +3,60 @@ body{
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-    color: red;
+    color: #2e2f42;
+    
 }
 
 .logo-web{
     color: #4d5ae5;
 }
 
-.logo-black{
+.logo-black-1{
     color: black;
 }
+.logo-white{
+    color: white;
+    background-color: #434455;
+}
 
-.logo-black, .logo-web {
+.logo-black-1, .logo-web, .logo-white {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
+    font-style: normal;
+}
+
+.navigation {
+    color: black;
+    font-family: "Roboto", sans-serif;
+}  
+
+.main-title{
+    background-color: #434455;
+    font-weight: 700;
+        font-size: 56px;
+    
+        /* line-height: 60px; */
+        line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.button {
+    background-color: #4d5ae5;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-text {
+    color: white;
+    background-color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
     font-style: normal;
 }
