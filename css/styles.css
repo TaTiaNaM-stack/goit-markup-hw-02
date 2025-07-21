@@ -88,7 +88,7 @@ body{
 }
 
 .ghost-title{
-        color: #2e2f42;
+    color: #2e2f42;
 }
 
 .team{
@@ -97,6 +97,7 @@ body{
 
 .title-team{
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .background{
@@ -113,6 +114,7 @@ body{
 
 .title-man{
     text-align: center;
+    color: #2e2f42;
 }
 
 .title-team{
@@ -166,6 +168,7 @@ p{
 .down-text {
     color: #F4F4FD;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     
 }
 
