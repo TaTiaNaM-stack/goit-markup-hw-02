@@ -1,8 +1,5 @@
 body{
     font-family: "Roboto", sans-serif;
-        
-        
-        font-style: normal;
         font-variation-settings: "wdth" 100;
         color: #2e2f42;
 
@@ -24,7 +21,7 @@ body{
 .logo-black, .logo-web, .logo-white {
     font-family: "Raleway", sans-serif;
     
-    font-style: normal;
+    
     text-decoration: none;
     font-size: 18px;
 }
@@ -121,10 +118,6 @@ p{
 .down-text {
     color: white;
     background-color: none;
-  
-    
-    font-weight: 400;
-    font-style: normal;
 }
 
 ul {
