@@ -53,7 +53,10 @@ body{
     text-decoration: none;
     font-weight: 400;
 }
-.contact:hover, .contact:active, .contact:focus{
+.contact:hover {
+    color: #404bbf;
+}
+.contact:focus{
     color: #404bbf;
 }
 
