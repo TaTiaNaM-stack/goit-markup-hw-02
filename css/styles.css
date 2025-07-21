@@ -28,7 +28,13 @@ body{
     color:#434455;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
-}  
+} 
+
+.contact{
+    color: #434455;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
 
 .main-title{
     background-color: #434455;
