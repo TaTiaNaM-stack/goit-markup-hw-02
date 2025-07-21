@@ -75,7 +75,7 @@ body{
     line-height: 150%;
 }
 
-.title3{
+.title3-1, .title3-2{
     font-weight: 500;
         font-size: 20px;
     
@@ -83,6 +83,23 @@ body{
         line-height: 120%;
         letter-spacing: 0.02em;
         
+}
+
+.title3-2{
+    text-align: center;
+}
+
+.title2{
+    font-size: 36px;
+    
+        /* line-height: 40px; */
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+p{
+    color: #434455;
 }
 
 .footer-text {
