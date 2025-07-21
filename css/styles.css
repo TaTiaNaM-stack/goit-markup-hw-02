@@ -1,9 +1,11 @@
 body{
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        font-variation-settings: "wdth" 100;
+        color: #2e2f42;
+
     
     
 }
@@ -33,14 +35,14 @@ body{
 .navigation {
     
     text-decoration: none;
-    font-family: "Roboto", sans-serif;
+    
     color: #434455;;
 } 
 
 .main-menu{
     
     text-decoration: none;
-    font-family: "Roboto", sans-serif;
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -49,7 +51,7 @@ body{
 .contact{
     color: #434455;
     text-decoration: none;
-    font-family: "Roboto", sans-serif;
+   
     font-weight: 400;
 }
 
@@ -109,7 +111,7 @@ p{
 .down-text {
     color: white;
     background-color: #434455;
-    font-family: "Roboto", sans-serif;
+  
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
