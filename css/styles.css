@@ -18,7 +18,7 @@ body{
 
 .logo-white{
     color: white;
-    background-color: #434455;
+    background-color: none;
 }
 
 .logo-black, .logo-web, .logo-white {
@@ -64,7 +64,7 @@ body{
 }
 
 .main-title{
-    background-color: #434455;
+    background-color: none;
     font-weight: 700;
         font-size: 56px;
     
@@ -120,7 +120,7 @@ p{
 }
 .down-text {
     color: white;
-    background-color: #434455;
+    background-color: none;
   
     
     font-weight: 400;
