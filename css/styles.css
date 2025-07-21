@@ -45,10 +45,12 @@ body{
 .navigation{
     color: #434455;
 }
-.navigation:hover, .navigation:focus{
+.navigation:hover{
     color: #404bbf;
 }
-
+.navigation:focus{
+    color: #404bbf;
+}
 .contact{
     color: #434455;
     text-decoration: none;
