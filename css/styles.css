@@ -12,6 +12,11 @@ body{
     color: #4d5ae5;
 }
 
+.logo-black-1{
+    color: #434455;
+   
+}
+
 .logo-white{
     color: white;
     background-color: #434455;
@@ -22,6 +27,7 @@ body{
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+    text-decoration: none;
 }
 
 .navigation {
@@ -29,6 +35,10 @@ body{
     text-decoration: none;
     font-family: "Roboto", sans-serif;
 } 
+
+.heder-menu{
+    text-decoration: none;
+}
 
 .contact{
     color: #434455;
