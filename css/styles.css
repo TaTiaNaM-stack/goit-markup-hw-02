@@ -13,7 +13,7 @@ body{
 }
 
 .logo-black-1{
-    
+    color: #2e2f42;;
    
 }
 
@@ -46,7 +46,7 @@ body{
 }
 
 .contact{
-    color: #2e2f42;
+    color: #434455;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -102,6 +102,9 @@ p{
     color: #434455;
 }
 
+.p-center{
+    text-align: center;
+}
 .footer-text {
     color: white;
     background-color: #434455;
