@@ -2,35 +2,24 @@ body{
     font-family: "Roboto", sans-serif;
         font-variation-settings: "wdth" 100;
         color: #2e2f42;
-
-    
-    
 }
 
 .logo-web{
     color: #4d5ae5;
 }
 
-
-
 .logo-white{
     color: white;
-    background-color: none;
 }
 
 .logo-black, .logo-web, .logo-white {
     font-family: "Raleway", sans-serif;
-    
-    
     text-decoration: none;
     font-size: 18px;
 }
 
-
 .main-menu{
-    
     text-decoration: none;
-    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.07;
@@ -61,7 +50,6 @@ body{
 }
 
 .main-title{
-    background-color: none;
     font-weight: 700;
         font-size: 56px;
     
@@ -117,7 +105,6 @@ p{
 }
 .down-text {
     color: white;
-    background-color: none;
 }
 
 ul {
