@@ -47,12 +47,18 @@ body{
     font-size: 16px;
     line-height: 150%;
 }
+.main-menu:hover, .main-menu:focus{
+    color: #404bbf;
+}
 
 .contact{
     color: #434455;
     text-decoration: none;
    
     font-weight: 400;
+}
+.contact:hover, .contact:focus{
+    color: #404bbf;
 }
 
 .main-title{
@@ -76,6 +82,9 @@ body{
     border-radius: 5px;
     cursor: pointer;
     line-height: 150%;
+}
+.button:hover, .button:focus{
+    background: #404bbf;
 }
 
 .title, .title-man{
