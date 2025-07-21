@@ -12,7 +12,7 @@ body{
     color: #4d5ae5;
 }
 
-.logo-black-1{
+.logo-black{
     color: #2e2f42;;
    
 }
@@ -22,7 +22,7 @@ body{
     background-color: #434455;
 }
 
-.logo-black-1, .logo-web, .logo-white {
+.logo-black, .logo-web, .logo-white {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
@@ -37,7 +37,7 @@ body{
     color: #434455;;
 } 
 
-.heder-menu{
+.main-menu{
     
     text-decoration: none;
     font-family: "Roboto", sans-serif;
@@ -76,7 +76,7 @@ body{
     line-height: 150%;
 }
 
-.title3-1, .title3-2{
+.title, .title-man{
     font-weight: 500;
         font-size: 20px;
     
@@ -86,11 +86,11 @@ body{
         
 }
 
-.title3-2{
+.title-man{
     text-align: center;
 }
 
-.title2{
+.title-team{
     font-size: 36px;
     
         /* line-height: 40px; */
@@ -103,10 +103,10 @@ p{
     color: #434455;
 }
 
-.p-center{
+.text-center{
     text-align: center;
 }
-.footer-text {
+.down-text {
     color: white;
     background-color: #434455;
     font-family: "Roboto", sans-serif;
