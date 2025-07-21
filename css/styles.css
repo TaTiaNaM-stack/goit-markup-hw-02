@@ -4,7 +4,7 @@ body{
     font-weight: 700;
     font-style: normal;
     color: #2e2f42;
-    text-decoration: none;
+    
     
 }
 
@@ -12,9 +12,6 @@ body{
     color: #4d5ae5;
 }
 
-.logo-black-1{
-    color: black;
-}
 .logo-white{
     color: white;
     background-color: #434455;
@@ -29,6 +26,7 @@ body{
 
 .navigation {
     color:#434455;
+    text-decoration: none;
     font-family: "Roboto", sans-serif;
 }  
 
