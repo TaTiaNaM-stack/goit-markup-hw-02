@@ -112,6 +112,10 @@ body{
         
 }
 
+.title{
+    color: #2e2f42;
+}
+
 .title-man{
     text-align: center;
     color: #2e2f42;
@@ -137,7 +141,7 @@ p{
 
 .text-center{
     text-align: center;
-    latter-spacing: 0.02em;
+    letter-spacing: 0.02em; 
 }
 
 .title-portfolio{
@@ -159,6 +163,8 @@ p{
 
 .txt-p{
     letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #F4F4FD;
 }
 
 .down{
@@ -169,6 +175,7 @@ p{
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    
     
 }
 
