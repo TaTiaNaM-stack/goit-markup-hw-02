@@ -3,6 +3,12 @@ body{
         font-variation-settings: "wdth" 100;
         color: #434455;
         background-color: #fff; 
+
+       
+}
+
+a{
+    text-decoration: none;
 }
 
 .studio-up{
